@@ -1,6 +1,6 @@
 # Connect-Icon
 
-Micorsoft Clone - A web Aplication created to bring Family and Friends closer.
+Micorsoft Clone - A web Application created to bring Family and Friends closer.
 TechStack- ReactJS, Node.js and SocketIO.
 
 # Hosted on-Heroku
