@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  font-family: Gilroy !important;
+  background-color: rgb(32, 202, 202);
+  background: linear-gradient(
+    to right,
+    hsl(200, 100%, 40%),
+    hsl(191, 100%, 43%)
+  );
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.shape {
+  background-color: hsl(200, 100%, 40%);
+  padding-top: 30px;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
